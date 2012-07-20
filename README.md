@@ -4,7 +4,7 @@ Clojure程序员的字典
 
 ## Usage
 
-```bash
+```clojure
 xumingmingv:dict(git:master)$ lein repl
 REPL started; server listening on localhost port 13475
 dict.core=> (search "hello")
